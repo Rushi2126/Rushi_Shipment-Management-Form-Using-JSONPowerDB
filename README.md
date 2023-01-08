@@ -17,3 +17,8 @@
 ![image](https://user-images.githubusercontent.com/86293669/211211679-971aa39f-6fd6-486a-b899-4ae9faa63d63.png)
 ![image](https://user-images.githubusercontent.com/86293669/211211858-c8a9dd52-7ccd-4e41-89e1-ea1dac70ac8a.png)
 
+# Relsease History -- Version 1.0:
+# JPDB Shipment Management Form
+1. The construction of an HTML form for the storage of shipping metadata.
+2. Using AJAX and JavaScript, create a user token and connect.
+3. Database manipulation options include Save, Update, and Reset.
